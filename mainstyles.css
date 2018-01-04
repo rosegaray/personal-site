@@ -1,7 +1,5 @@
 .container-fluid {
-  width: 980px;
   margin: 0 auto;
-  padding-top: 40px;
 }
 
 h1 {
@@ -9,7 +7,6 @@ h1 {
   font-size: 40px;
   display: inline;
 }
-
 #text {
   font-family: 'Inconsolata', monospace;
   font-size: 20px;
