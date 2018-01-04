@@ -1,0 +1,48 @@
+.container-fluid {
+  width: 980px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+h1 {
+  font-family: 'Inconsolata', monospace;
+  font-size: 40px;
+  display: inline;
+}
+
+#text {
+  font-family: 'Inconsolata', monospace;
+  font-size: 20px;
+  display: inline;
+  padding-top: 15px;
+}
+
+a {
+  color: brown;
+  text-decoration: underline;
+  background-color: white;
+}
+
+ul {
+  padding: 5px;
+}
+
+figure {
+  margin: auto;
+}
+
+.img-responsive {
+  width: 350px;
+}
+
+figcaption {
+  font-family: 'Inconsolata', monospace;
+  font-size: 10px;
+  margin: auto;
+  display: table-caption;
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
