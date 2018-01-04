@@ -38,8 +38,7 @@ figure {
 figcaption {
   font-family: 'Inconsolata', monospace;
   font-size: 10px;
-  margin: auto;
-  display: table-caption;
+  text-align: center;
 }
 
 li {
