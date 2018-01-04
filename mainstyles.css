@@ -1,5 +1,5 @@
 .container-fluid {
-  margin: 0 auto;
+  margin: 30px;
 }
 
 h1 {
@@ -7,6 +7,7 @@ h1 {
   font-size: 40px;
   display: inline;
 }
+
 #text {
   font-family: 'Inconsolata', monospace;
   font-size: 20px;
@@ -26,6 +27,14 @@ ul {
 
 figure {
   margin: auto;
+}
+
+.icons {
+  font-size: 8px;
+  font-family: 'Inconsolata', monospace;
+  position: fixed;
+  left: 30px;
+  bottom: 30px;
 }
 
 .img-responsive {
